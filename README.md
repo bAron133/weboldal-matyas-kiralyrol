@@ -1,4 +1,4 @@
-# Iskolai weboldal
+# Mátyás Király weboldal
 <hr>
 
 **IDE:** 
